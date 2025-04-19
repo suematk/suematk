@@ -1,7 +1,6 @@
 # Hey there 👋 I'm Susan
 
 I’m a data engineer with a builder’s mindset: less about buzzwords, more about making things that work and turning half-baked business ideas into working systems. 
-I build things like someone’s actually going to use them.
 
 ---
 
